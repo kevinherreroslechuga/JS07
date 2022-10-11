@@ -1,0 +1,26 @@
+{
+  "name": "js07",
+  "version": "1.0.0",
+  "description": "Tarea API FETCH",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinherreroslechuga/JS07.git"
+  },
+  "keywords":[
+    "bootstrap",
+    "axios"
+  ],
+  "author": "Kevin Herreros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinherreroslechuga/JS07/issues"
+  },
+  "homepage": "https://github.com/kevinherreroslechuga/JS07#readme",
+  "dependencies":{
+    "bootstrap": "^5.2.2"
+  }
+}
